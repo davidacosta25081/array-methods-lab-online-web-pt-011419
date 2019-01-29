@@ -1,4 +1,4 @@
-def using_include(array, element)
+def using_include(array,element)
 array.include?(element)
 end
 
@@ -25,9 +25,9 @@ end
 
 perros = ["sara", "wendy", "suki", "coco"]
 perro_nuevo = "mateo"
-using_include (perros,perro_nuevo)
-using_sort (perros)
-using_reverse (perros)
-using_first (perros)
-using_last (perros)
-using_size (perros)
+using_include(perros,perro_nuevo)
+using_sort(perros)
+using_reverse(perros)
+using_first(perros)
+using_last(perros)
+using_size(perros)
